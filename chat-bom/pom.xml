@@ -19,7 +19,7 @@
         <org.springframework.spring-plugin-core.version>1.2.0.RELEASE</org.springframework.spring-plugin-core.version>
         <org.springframework.spring-hateoas.version>1.0.3.RELEASE</org.springframework.spring-hateoas.version>
         <org.springframework.data.version>Moore-SR4</org.springframework.data.version>
-        <bouncycastle.version>1.60</bouncycastle.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
         <slf4j.version>1.7.30</slf4j.version>
         <log4j2.version>2.13.3</log4j2.version>
         <jackson.version>2.11.0</jackson.version>
