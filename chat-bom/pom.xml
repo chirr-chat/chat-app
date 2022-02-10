@@ -34,7 +34,7 @@
         <apache.commons-lang2>2.6</apache.commons-lang2>
         <snake-yaml.version>1.25</snake-yaml.version>
         <hikaricp.version>2.7.9</hikaricp.version>
-        <hibernate.version>5.3.7.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <hibernate-hikaricp.version>5.4.10.Final</hibernate-hikaricp.version>
         <hibernate-validator.version>6.0.18.Final</hibernate-validator.version>
         <h2-database.version>1.4.200</h2-database.version>
