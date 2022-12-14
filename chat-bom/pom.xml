@@ -32,7 +32,7 @@
         <apache.commons-collections>3.2.2</apache.commons-collections>
         <apache.commons-lang3>3.9</apache.commons-lang3>
         <apache.commons-lang2>2.6</apache.commons-lang2>
-        <snake-yaml.version>1.25</snake-yaml.version>
+        <snake-yaml.version>1.32</snake-yaml.version>
         <hikaricp.version>2.7.9</hikaricp.version>
         <hibernate.version>5.3.7.Final</hibernate.version>
         <hibernate-hikaricp.version>5.4.10.Final</hibernate-hikaricp.version>
